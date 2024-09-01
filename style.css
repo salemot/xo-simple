@@ -17,6 +17,9 @@ h1 {
     font-size: 54px;
     text-transform: uppercase;
 }
+h2 {
+    align-items: end;
+}
 
 .container {
     padding: 40px;
@@ -26,6 +29,8 @@ h1 {
     align-items: center;
     flex-direction: column;
     background-color: #37505C;
+    background-image: url(91657.jpg);
+    background-size: cover;
 }
 
 #gameboard {
